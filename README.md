@@ -40,6 +40,7 @@ export_to_csv(data, 'electricity_retail_sales.csv')
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-This project is partly based on [systemcatch/eiapy](https://github.com/systemcatch/eiapy). 
+This project is heavily inspired by [systemcatch/eiapy](https://github.com/systemcatch/eiapy) and uses parts of the original code under the MIT License.
 I made modifications to support EIA API v2 and added additional features like flexible query parameters and CSV export.
+
 
